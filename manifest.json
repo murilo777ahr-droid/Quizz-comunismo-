@@ -1,0 +1,11 @@
+{
+  "name": "História do Comunismo — Quiz e Caderno",
+  "short_name": "Quiz Comunismo",
+  "description": "Quiz histórico e notas de estudo em português brasileiro.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f3e9",
+  "theme_color": "#183d32",
+  "lang": "pt-BR",
+  "icons": []
+}
